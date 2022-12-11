@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1200" height="500" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+  <img width="900" height="350" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Mohamed Haroun Bouriga</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
