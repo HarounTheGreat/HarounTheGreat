@@ -9,9 +9,13 @@
 
 - 🌱 I’m currently learning **React , Native**
 
+- 👨‍💻 All of my projects are available at [https://harounbouriga99.wixsite.com/my-site/my-site](https://harounbouriga99.wixsite.com/my-site/my-site)
+
 - 💬 Ask me about **data analytics**
 
 - 📫 How to reach me **harounbouriga99@gmail.com**
+
+- 📄 Know about my experiences [https://harounbouriga99.wixsite.com/my-site/about-me-picture](https://harounbouriga99.wixsite.com/my-site/about-me-picture)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
